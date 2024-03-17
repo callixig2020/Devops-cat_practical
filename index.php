@@ -1,5 +1,5 @@
 <?php
-//MUHIZI SAMUEL
+
 
 // Create connection
 $conn = new mysqli('mysql_db','root', 'mysqli');
@@ -8,6 +8,8 @@ $conn = new mysqli('mysql_db','root', 'mysqli');
 if ($conn){
     echo "Connected successfully !!!";
 }
-    jugumila
+else{
+    echo"not successfully";
+}
 
 ?>
