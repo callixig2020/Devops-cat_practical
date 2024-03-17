@@ -8,6 +8,6 @@ $conn = new mysqli('mysql_db','root', 'mysqli');
 if ($conn){
     echo "Connected successfully !!!";
 }
-    jugumila
+    jugumilahhhh
 
 ?>
