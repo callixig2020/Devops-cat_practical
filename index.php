@@ -1,5 +1,5 @@
 <?php
-
+//MUHIZI SAMUEL
 
 // Create connection
 $conn = new mysqli('mysql_db','root', 'mysqli');
